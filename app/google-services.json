@@ -1,0 +1,49 @@
+
+{
+  "project_info": {
+    "project_number": "159545217996",
+    "firebase_url": "https://storeupp-19002.firebaseio.com",
+    "project_id": "storeupp-19002",
+    "storage_bucket": "storeupp-19002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159545217996:android:58d54b6ad5c46926c9c369",
+        "android_client_info": {
+          "package_name": "com.app.storeupp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159545217996-b3qnslt5j9cob5267ato78sjs2s672tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.storeupp",
+            "certificate_hash": "94d90bf86c3680ac47b6d0e21d0bf205eaecf757"
+          }
+        },
+        {
+          "client_id": "159545217996-89165dohg2d36mqoobk8g59tja8gepru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4SLqosBvd7GiFxxKtEtzk3hGr4lRG8uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159545217996-89165dohg2d36mqoobk8g59tja8gepru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

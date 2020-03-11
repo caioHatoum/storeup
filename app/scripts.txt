@@ -1,0 +1,7 @@
+-- KVM is required to run this AVD.
+   /dev/kvm device: permission denied.
+
+   sudo su
+   cd/
+   cd dev
+   chmod 777 -R kvm

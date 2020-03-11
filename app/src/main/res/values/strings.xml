@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StoreUpp</string>
+    <string name="email">E-mail</string>
+    <string name="password">******</string>
+    <string name="forgot">Esqueci minha senha.</string>
+    <string name="login">Login StoreUpp</string>
+    <string name="register">Registre-se</string>
+    <string name="txt_view_forgot">Alteração de senha.</string>
+    <string name="send_email_confirmation">Enviar email de confirmação.</string>
+    <string name="register_password">crie sua senha</string>
+    <string name="repeat_password">repita a senha</string>
+    <string name="errMsgPassRepeat">Os campos de senha não estão iguais</string>
+    <string name="errMsgEmailFormat">Este não é um formato de email válido</string>
+    <string name="errMsgPassLenght">A senha precisa conter ao menos 8 caracteres</string>
+    <string name="myAcc">Perfil</string>
+    <string name="myStore">Meu Store</string>
+    <string name="logout">Sair</string>
+    <string name="toStay">Hospedar</string>
+    <string name="toStore">Guardar</string>
+    <string name="auth_failed">falhou</string>
+    <string name="emailpassword_status_fmt" />
+    <string name="firebase_status_fmt">asd</string>
+    <string name="signed_out">deslogado</string>
+    <string name="payMethods">Metodos de pagamento</string>
+    <string name="userData">dados do meu usuario</string>
+    <string name="registerCard">adicionar cartão</string>
+
+
+</resources>
